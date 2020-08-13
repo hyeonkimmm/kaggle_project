@@ -2,3 +2,5 @@
 
 - [Titanic binary classification project](titanic_project/Kaggle_Titanic_tutorials.ipynb)    
 https://www.kaggle.com/c/titanic
+- [Legendary Pokemon binary classification project](Pokemon_project/Legendary_Pokemon_classification.ipynb)    
+https://www.kaggle.com/abcsds/pokemon
